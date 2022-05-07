@@ -6,7 +6,7 @@ The EPNS Showrunners handles the channels created and maintaned by us. It also s
 
 - Install docker 
 - Clone the repo
-``` git clone https://github.com/ethereum-push-notification-service/epns-showrunners-staging-v2.git```
+``` git clone https://github.com/ethereum-push-notification-service/epns-showrunners-framework-staging.git```
 - Open the root folder in a terminal and enter 
 ```docker-compose up```. This initalises mongodb, redis and ipfs local instances
 - Open the root folder in another terminal and enter
